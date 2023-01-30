@@ -12,7 +12,7 @@ A one-person developer
 
 ⚡ Active and Experienced Developer
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in Brazil
 
 #### My Favorite IDEs/Editors:
 ![MythCoder](https://img.shields.io/badge/MythCoder-MythCoder-blue)
