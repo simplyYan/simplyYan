@@ -32,4 +32,4 @@ A one-person developer
 ![SpellSpike](https://img.shields.io/badge/SpellSpike-SpellSpike-yellow)
  
 
-(Wesley / old SMOKE BR)
+(Yan / old SMOKE BR)
