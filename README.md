@@ -1,4 +1,4 @@
-SwankyNoob, a Brazilian developer, individually and independently Created and Adminstrated by Yan (Wesley Y. Soares Brehmer). 
+SwankyNoob, a Brazilian developer, individually and independently Created and Adminstrated by Yan (Wesley Y. Soares Brehmer). ![](https://raw.githubusercontent.com/NervousGroove/NervousGroove/main/Yan-unscreen.gif)
 ===================================
 
 ![](https://komarev.com/ghpvc/?username=yassinbenmansour&style=flat-square)
@@ -34,5 +34,3 @@ A one-person developer
 
 (Yan / old SMOKE BR)
 
--------------------
-![](https://raw.githubusercontent.com/NervousGroove/NervousGroove/main/Yan-unscreen.gif)
