@@ -8,7 +8,7 @@ A one-person developer
 -------------
 📚 Expert in JavaScript, CSS, HTML and SpellSpike. 
 
-🏆 Creator of famous projects with SpellSpike, SpellSide, MythCoder and Max.
+🏆 Creator of famous projects as SpellSpike, SpellSide, MythCoder and Max.
 
 ⚡ Active and Experienced Developer
 
