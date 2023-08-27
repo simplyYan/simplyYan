@@ -17,7 +17,7 @@ A one-person developer
 #### My Favorite IDEs/Editors:
 ![MythCoder](https://img.shields.io/badge/MythCoder-MythCoder-blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime](https://img.shields.io/badge/Subline%20Text-Subline%20Text-orange)
+![Sublime](https://img.shields.io/badge/Sublime%20Text-Sublime%20Text-orange)
 
 #### Operating Systems I worked with:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
