@@ -6,7 +6,7 @@ SwankyNoob, a Brazilian developer, individually and independently Created and Ad
 
 A one-person developer
 -------------
-📚 Expert in JavaScript, CSS, HTML and SpellSpike. 
+📚 Expert in Go, CoffeeScript, CSS, HTML & JS. 
 
 🏆 Creator of famous projects as SpellSpike, SpellSide, MythCoder and Max.
 
