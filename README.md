@@ -8,7 +8,7 @@ A one-person developer
 -------------
 📚 Expert in Go, CoffeeScript, CSS, HTML & JS. 
 
-🏆 Creator of famous projects as SpellSpike, SpellSide, MythCoder and Max.
+🏆 Creator of famous projects as LAGRA, W7DTH, MythCoder and SpellSpike.
 
 ⚡ Active and Experienced Developer
 
