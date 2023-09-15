@@ -25,7 +25,3 @@ Go, CoffeeScript, HTML, CSS & JS
 
 #### 📋 Frameworks/Libs
 Echo (Go), gorm (go), Cobra (Go), W7DTH (Go), LAGRA (Go), Heimdall (Go), Watermill (Go), Foundation (CSS)
- 
-
-(Yan / old SMOKE BR)
-
