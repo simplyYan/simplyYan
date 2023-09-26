@@ -34,4 +34,4 @@ Echo (Go), gorm (go), Cobra (Go), W7DTH (Go), LAGRA (Go), Heimdall (Go), Watermi
 - **Nikola Tesla:** *"Don't believe everything you see. Even salt looks like sugar."*
 - **Leonardo da Vinci:** *"Simplicity is the ultimate sophistication."*
 - **Carl Jung:** *"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."*
-- **Charles Darwin:** *"It is not the strongest of the species that survives, nor the most intelligent; it is the one most responsive to change."-
+- **Charles Darwin:** *"It is not the strongest of the species that survives, nor the most intelligent; it is the one most responsive to change."*
