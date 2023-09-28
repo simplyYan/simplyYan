@@ -26,6 +26,9 @@ Go, CoffeeScript, HTML, CSS & JS
 #### 📋 Frameworks/Libs
 Echo (Go), gorm (go), Cobra (Go), W7DTH (Go), LAGRA (Go), Heimdall (Go), Watermill (Go), Foundation (CSS)
 
+### My portfolio (beta version):
+https://yandev.my.canva.site/
+
 ### Phrases I like
 - **Albert Einstein:** *"The mind that opens to a new idea never returns to its original size."*
 - **Galileo Galilei:** *"You cannot teach a man anything; you can only help him find it within himself."*
