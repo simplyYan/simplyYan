@@ -1,4 +1,5 @@
-My name is Yan, I'm a Brazilian developer who loves programming in Go, CoffeeScript, HTML, and CSS! [](https://raw.githubusercontent.com/simplyYan/simplyYan/main/Yan-unscreen.gif)
+My name is Yan, I'm a Brazilian developer who loves programming in Go, CoffeeScript, HTML, and CSS! ![Yan](https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif){largura=200 altura=100}
+
 ===================================
 
 ![](https://komarev.com/ghpvc/?username=yassinbenmansour&style=flat-square)
