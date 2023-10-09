@@ -1,4 +1,4 @@
-My name is Yan, I'm a Brazilian developer who loves programming in Go, CoffeeScript, HTML, and CSS! <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
+# My name is Yan, I'm a Brazilian developer who loves programming in Go, CoffeeScript, HTML, and CSS! <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 
 ===================================
 
