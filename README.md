@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 ===================================
 
-![](https://komarev.com/ghpvc/?username=yassinbenmansour&style=flat-square)
+![](https://komarev.com/ghpvc/?username=simplyYan&color=green)
 
 
 A developer
