@@ -9,6 +9,8 @@ A developer
 
 🏆 Creator of famous projects as LAGRA, W7DTH, MythCoder and SpellSpike.
 
+🎩 I have already contributed to giant projects like [Spago](https://github.com/nlpodyssey/spago), and others.
+
 ⚡ Active and Experienced Developer
 
 * 🌍  I'm based in Brazil
