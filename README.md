@@ -5,7 +5,7 @@
 
 A developer
 -------------
-📚 Expert in Go, CoffeeScript, CSS, HTML & JS. 
+📚 Expert in Go, CoffeeScript, CSS, HTML & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, MythCoder and SpellSpike.
 
