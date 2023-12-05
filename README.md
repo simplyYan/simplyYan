@@ -6,7 +6,7 @@
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
 A developer
 -------------
-📚 Expert in Go, CoffeeScript, CSS, HTML & Arduino (C++). 
+📚 Expert in Go, CoffeeScript, CSS, HTML, GDScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and LevelDot.
 
