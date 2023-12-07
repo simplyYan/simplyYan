@@ -26,10 +26,10 @@ VSCodium (Visual Studio Code)
 Windows, Linux, macOS (and web).
 
 #### 📋 Languages
-Go, CoffeeScript, HTML, CSS & JS
+Go, GDScript, HTML, CSS & JS
 
 #### 📋 Frameworks/Libs
-Echo (Go), gorm (go), Cobra (Go), W7DTH (Go), LAGRA (Go), Heimdall (Go), Watermill (Go), Foundation (CSS)
+Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH.
 
 ### Follow Me:
 https://linktr.ee/yan.dev
