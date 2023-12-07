@@ -29,7 +29,7 @@ Windows, Linux, macOS (and web).
 Go, GDScript, HTML, CSS & JS
 
 #### 📋 Frameworks/Libs
-Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH.
+Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH, Heimdall.
 
 ### Follow Me:
 https://linktr.ee/yan.dev
