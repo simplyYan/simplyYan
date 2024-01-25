@@ -20,7 +20,7 @@ A developer
 Parrot OS (Linux/Debian)
 
 #### My Favorite IDEs/Editors:
-VSCodium (Visual Studio Code)
+LiteIDE, VSCodium (Visual Studio Code)
 
 #### Operating Systems I worked with:
 Windows, Linux, macOS (and web).
