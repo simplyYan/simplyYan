@@ -8,7 +8,7 @@ A developer
 -------------
 📚 Expert in Go, CoffeeScript, CSS, HTML, GDScript & Arduino (C++). 
 
-🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and LevelDot.
+🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
 
 🎩 I have already contributed to giant projects like [GoInk](https://github.com/fuxiaohei/GoInk), and others.
 
