@@ -14,6 +14,8 @@ A developer
 
 ⚡ Active and Experienced Developer
 
+😈 I also know the basics of hacking with Nmap, Nikto, WPScan, john, gobuster, wireshark
+
 * 🌍  I'm based in Brazil
 
 #### The operating system I usually use:
