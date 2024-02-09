@@ -1,4 +1,4 @@
-# My name is Yan, I'm a Brazilian developer who loves programming in Go, CoffeeScript, HTML, and CSS! 
+# My name is Yan, I'm a Brazilian developer who loves programming in Go and JavaScript! 
 <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 ===================================
 
@@ -6,13 +6,15 @@
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
 A developer
 -------------
-📚 Expert in Go, CoffeeScript, CSS, HTML, GDScript & Arduino (C++). 
+📚 Expert in Go, Javascript, GDScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
 
 🎩 I have already contributed to giant projects like [GoInk](https://github.com/fuxiaohei/GoInk), and others.
 
 ⚡ Active and Experienced Developer
+
+🤖 I also have experience in machine/deep learning with ml5.js
 
 😈 I also know the basics of hacking with Nmap, Nikto, WPScan, john, gobuster, wireshark
 
