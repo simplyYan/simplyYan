@@ -4,6 +4,7 @@ Ter sonhos lúcidos envolve desenvolver a capacidade de reconhecer que você est
 Antes de começar, aqui vão algumas dicas para tornar mais fácil:
 1. Mantenha um diário de sonhos: Comece a registrar seus sonhos regularmente assim que acordar. Isso ajudará você a desenvolver uma maior consciência dos padrões dos seus sonhos e pode tornar mais fácil reconhecer quando você está sonhando.
 2.  Realize verificações de realidade: Faça verificações de realidade durante o dia, como tentar passar o dedo pela palma da mão ou olhar para um relógio digital, enquanto se questiona se está sonhando ou não. Faça isso regularmente o suficiente para que se torne um hábito, e eventualmente você também fará isso em seus sonhos, o que pode ajudá-lo a perceber quando está sonhando.
+-----
 Agora, tendo em mente isso, vou te ensinar uma técnica existente, chamada "WILD". Eu pesquisei dezenas de técnicas mas essa foi a mais fácil, e a que mais funcionou, além de proporcionar sonhos lúcidos a mim já na primeira tentativa.
 A técnica "WILD" em si, já é ótima, mas eu fiz uma combinação, e juntei ela com a técnica "MILD". Agora, vamos explorar ambas:
 - Técnica MILD (Indução de Sonhos Lúcidos Mnemônica):
