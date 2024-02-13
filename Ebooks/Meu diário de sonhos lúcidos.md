@@ -13,3 +13,5 @@ Esta técnica envolve manter a mente consciente enquanto o corpo adormece. Para 
 -------
 Com essas duas técnicas juntas, consegui facilmente ter sonhos lúcidos diariamente.
 Mesmo quando conseguir seu primeiro sonho lúcido, é importante continuar pelo menos com a técnica WILD no dia a dia.
+
+> Mini Ebook gratuito por @simplyYan
