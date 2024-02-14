@@ -21,7 +21,7 @@ A developer
 * 🌍  I'm based in Brazil
 
 #### The operating system I usually use:
-Parrot OS (Linux/Debian)
+Parrot OS (Linux/Debian), Tails
 
 #### My Favorite IDEs/Editors:
 LiteIDE, VSCodium (Visual Studio Code)
