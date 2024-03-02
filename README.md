@@ -6,7 +6,7 @@
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
 A developer
 -------------
-📚 Expert in Go, Javascript, GDScript & Arduino (C++). 
+📚 Expert in Go, Python, GDScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
 
