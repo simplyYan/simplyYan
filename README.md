@@ -1,4 +1,4 @@
-# My name is Yan, I'm a Brazilian developer who loves programming in Go and JavaScript! 
+# My name is Yan, I'm a Brazilian developer who loves programming in Python and Go! 
 <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 ===================================
 
