@@ -1,4 +1,4 @@
-# My name is Yan, I'm a Brazilian developer who loves programming in Python and Go! 
+# My name is Yan, I'm a Brazilian developer who loves programming in Rust and Go! 
 <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 ===================================
 
@@ -6,7 +6,7 @@
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
 A developer
 -------------
-📚 Expert in Go, Python, GDScript & Arduino (C++). 
+📚 Expert in Go, Python, Rust, HTML, CSS, JavaScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
 
