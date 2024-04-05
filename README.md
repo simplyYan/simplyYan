@@ -6,6 +6,9 @@
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
 A developer
 -------------
+
+🎓 I study at Instituto Federal Catarinense (IFC)
+
 📚 Expert in Go, Python, Rust, HTML, CSS, JavaScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
