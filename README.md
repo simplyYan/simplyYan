@@ -11,7 +11,7 @@ A developer
 
 📚 Expert in Go, Python, Rust, HTML, CSS, JavaScript & Arduino (C++). 
 
-🏆 Creator of famous projects as LAGRA, W7DTH, Cobalf and GalaktaGlare.
+🏆 Creator of famous projects as LAGRA, W7DTH, leatherfacee.js and GalaktaGlare.
 
 🎩 I have already contributed to giant projects like [GoInk](https://github.com/fuxiaohei/GoInk), and others.
 
