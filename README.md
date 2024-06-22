@@ -36,9 +36,6 @@ HTML, CSS, JavaScript, Python, Go.
 #### 📋 Frameworks/Libs
 Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH, Heimdall.
 
-### Follow Me:
-https://linktr.ee/yan.dev
-
 ### Phrases I like
 - **Albert Einstein:** *"The mind that opens to a new idea never returns to its original size."*
 - **Galileo Galilei:** *"You cannot teach a man anything; you can only help him find it within himself."*
