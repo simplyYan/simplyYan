@@ -33,7 +33,7 @@ LiteIDE, VSCodium (Visual Studio Code)
 Windows, Linux, macOS (and web).
 
 #### 📋 Languages
-HTML, CSS, JavaScript, Python, Go, Rust.
+HTML, CSS, JavaScript, Python, Go.
 
 #### 📋 Frameworks/Libs
 Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH, Heimdall.
