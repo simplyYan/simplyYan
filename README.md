@@ -9,7 +9,7 @@ A developer
 
 🎓 I study at Instituto Federal Catarinense (IFC)
 
-📚 Expert in Go, Python, Rust, HTML, CSS, JavaScript & Arduino (C++). 
+📚 Expert in Go, Python, HTML, CSS, JavaScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, leatherfacee.js and GalaktaGlare.
 
