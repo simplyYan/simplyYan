@@ -13,8 +13,6 @@ A developer
 
 🏆 Creator of famous projects as LAGRA, W7DTH, leatherfacee.js and GalaktaGlare.
 
-🎩 I have already contributed to giant projects like [GoInk](https://github.com/fuxiaohei/GoInk), and others.
-
 ⚡ Active and Experienced Developer
 
 🤖 I also have experience in machine/deep learning with ml5.js
