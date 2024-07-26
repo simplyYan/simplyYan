@@ -9,7 +9,7 @@ A developer
 
 🎓 I study at Instituto Federal Catarinense (IFC)
 
-📚 Expert in Go, Python, HTML, CSS, JavaScript & Arduino (C++). 
+📚 Expert in Go, PHP, Python, HTML, CSS, JavaScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, leatherfacee.js and GalaktaGlare.
 
@@ -17,7 +17,7 @@ A developer
 
 🤖 I also have experience in machine/deep learning with ml5.js
 
-😈 I also know the basics of hacking with Nmap, Nikto, WPScan, john, gobuster, wireshark
+😈 Certified ethical hacker
 
 * 🌍  I'm based in Brazil
 
@@ -31,7 +31,7 @@ LiteIDE, VSCodium (Visual Studio Code)
 Windows, Linux, macOS (and web).
 
 #### 📋 Languages
-HTML, CSS, JavaScript, Python, Go.
+PHP, HTML, CSS, JavaScript, Python, Go.
 
 #### 📋 Frameworks/Libs
 Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH, Heimdall.
