@@ -1,4 +1,4 @@
-# My name is Yan, I'm a Brazilian developer who loves programming in JavaScript and Go! 
+# My name is Yan, I'm a Brazilian developer who loves programming in Rust, JavaScript and Go! 
 <img src="https://raw.githubusercontent.com/simplyYan/simplyYan/main/walk.gif" alt="Yan: There was supposed to be an image here -_-" width="50" height="50">
 ===================================
 
@@ -9,7 +9,7 @@ A developer
 
 🎓 I study at Instituto Federal Catarinense (IFC)
 
-📚 Expert in Go, PHP, Python, HTML, CSS, JavaScript & Arduino (C++). 
+📚 Expert in Rust, Go, PHP, HTML, CSS, JavaScript & Arduino (C++). 
 
 🏆 Creator of famous projects as LAGRA, W7DTH, leatherfacee.js and GalaktaGlare.
 
@@ -17,12 +17,12 @@ A developer
 
 🤖 I also have experience in machine/deep learning with ml5.js
 
-😈 Certified ethical hacker
+😈 Ethical hacker
 
 * 🌍  I'm based in Brazil
 
 #### The operating system I usually use:
-Windows 11, Parrot OS (Linux/Debian)
+Kali Linux
 
 #### My Favorite IDEs/Editors:
 LiteIDE, VSCodium (Visual Studio Code)
@@ -31,10 +31,10 @@ LiteIDE, VSCodium (Visual Studio Code)
 Windows, Linux, macOS (and web).
 
 #### 📋 Languages
-PHP, HTML, CSS, JavaScript, Python, Go.
+Rust, Go, PHP, HTML, CSS, and JavaScript.
 
-#### 📋 Frameworks/Libs
-Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, W7DTH, Heimdall.
+#### 📋 Frameworks/Libs (Golang)
+Fiber, go-toml, Colly, jwt-go, GCache, go-kit, go-redis, GORM, LAGRA, Heimdall, Watermill, Cobra.
 
 ### Phrases I like
 - **Albert Einstein:** *"The mind that opens to a new idea never returns to its original size."*
