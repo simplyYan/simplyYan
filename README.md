@@ -4,7 +4,7 @@
 
 ##### My Go packages: https://simplyyan.github.io/simplyYan/root
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
-**Eternal praise to the Lord**
+**⚡️ Eternal praise to the Lord**
 
 -------------
 
