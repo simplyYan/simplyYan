@@ -4,7 +4,7 @@
 
 ##### My Go packages: https://simplyyan.github.io/simplyYan/root
 ##### My portfolio: https://simplyyan.github.io/Yan/root/
-A developer
+**Eternal praise to the Lord**
 -------------
 
 🎓 I study at Instituto Federal Catarinense (IFC)
